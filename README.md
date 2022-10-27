@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Cartão de crédito </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa para o portfólio de apresentação de de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate" target="_blank">DESTE LINK</a>. É necessário ter conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
 
 ## :memo: Licença
 
@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by <strong>Luis Leonardo Pontes </strong> <a href="https://www.linkedin.com/in/luis-leonardo-pontes/">Linkedin</a>  :wave: com aulas da Rocketseat 
