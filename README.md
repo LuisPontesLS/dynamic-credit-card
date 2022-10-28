@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de crédito </h1>
 
 <p align="center">
-Programa para o portfólio de apresentação de tecnologias WEB.
+Programa para o portfólio de tecnologias WEB.
 </p>
 
 <p align="center">
