@@ -6,3 +6,11 @@ https://www.figma.com/file/k7FUgs2UBblAoI4A4Y70z3/Explorer-Lab-%2301-(Copy)-(Com
 
 LINK DO ARQUIVO (COM O CSS ATIVO):
 file:///C:/Users/Acer/Desktop/Samsung/GH%20e%20Linkedin/Subir%20para%20GH/explorer-lab-01-main/index.html
+
+EXIBIR O ARQUIVO NO BROWSER: Aula1 32:00
+npm run dev > copia o link, algo como: http://127.0.0.1:5173/
+Obs: Pode ser preciso parar o servidor (ctrl + c) antes
+
+ERROS DE EXECUÇÃO (NO BROWSER):
+Atenção aos sinais de ',' especialmente entre ítens de objetos e entre aos
+chaves dentro dos próprios objetos
