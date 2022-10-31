@@ -14,3 +14,19 @@ Obs: Pode ser preciso parar o servidor (ctrl + c) antes
 ERROS DE EXECUÇÃO (NO BROWSER):
 Atenção aos sinais de ',' especialmente entre ítens de objetos e entre aos
 chaves dentro dos próprios objetos
+
+REGRAS DOS CARTÕES VISA E MASTERCARD:
+Visa - Expressão regular: ^4\d{0,15} <- tradução: '^' inicia, nº4, seguido de um dígito 'd', esses dígitos ocorrerão entre 0 e 15 vezes.
+inicia com 4 e é seguido de 15 digitos;
+4000 0000 0000 0000
+
+MASTERCARD (os 4 primeiros dígitos importam). Note que o código final é o "oficial", pois aborda todas as variáveis. 
+inicia com 5, seguido de um digito entre 1 e 5, seguido por mais 2 dígitos;
+5200 0000 0000 0000 - Expressão regular: ^5[1-5]\d{0,2}
+OU - nest e caso, precisa usar um agrupador 'parenteses ()' para todo o sódigo e sinal '|' como 'ou'
+inicia com 22, seguido de um dígito entre 2 e 9, seguido de masi 1 dígito;
+2230 0000 0000 0000 - Expressão regular: (^5[1-5]\d{0,2}|^22[2-9]\d)
+OU
+inicia com 2, seguido de um dígito entre 3 e 7, seguido de mais 2 dígitos
+2300 0000 0000 0000 - Expressão regular: (^5[1-5]\d{0,2}|^22[2-9]\d|^2[3,7]\d{0,2})\d{0,12}
+Todos seguidos de mais 12 dígitos
