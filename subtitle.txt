@@ -30,3 +30,5 @@ OU
 inicia com 2, seguido de um dígito entre 3 e 7, seguido de mais 2 dígitos
 2300 0000 0000 0000 - Expressão regular: (^5[1-5]\d{0,2}|^22[2-9]\d|^2[3,7]\d{0,2})\d{0,12}
 Todos seguidos de mais 12 dígitos
+
+AULA 3: Adicionar eventos ao documento. A partir da linha 76 
