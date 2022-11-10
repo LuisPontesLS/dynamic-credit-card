@@ -45,7 +45,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 ## Site online:
-<p> Veja-o online e ocm suas fucnionalidades [clicando aqui](https://dynamic-credit-card.vercel.app/) </p>
+<p> Veja-o online e ocm suas fucnionalidades <a href="https://dynamic-credit-card.vercel.app/" target="_blank">clicando aqui</a> </p>
 
 ---
 
